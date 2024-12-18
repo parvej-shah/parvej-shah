@@ -32,8 +32,9 @@ A gamified Tic-Tac-Toe application with:
 A React-based e-commerce platform showcasing modern web development practices:
 - State management using Context API.
 - Seamless navigation with React Router.
+
 ---
----
+
 ## 🌱 What I'm Learning
 - Backend development with **Express.js** and **MongoDB**.
 - Participating in challenging **deep learning hackathons**.
@@ -45,7 +46,7 @@ A React-based e-commerce platform showcasing modern web development practices:
 
 - Volunteered with **Badhon** to support life-saving blood donation campaigns.
 - Developed and deployed interactive web apps for learning and e-commerce.
-- 
+ 
 ---
 
 - 💬 Ask me about **React, Java Scripts, Competitive Programming**
