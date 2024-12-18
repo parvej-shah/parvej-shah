@@ -1,14 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Parvej Shah</h1>
-<h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>                                                                         
+<h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3                                                                        
 ---
 
 ## 🚀 About Me
 
 A passionate front-end developer based in Dhaka, Bangladesh. I am deeply interested in crafting visually appealing and user-friendly web experiences. I'm expanding my expertise into backend technologies and exploring the exciting world of deep learning.
 
----                                                                                  
+--- 
+
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvej-shah" alt="parvej-shah" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
