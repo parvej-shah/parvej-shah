@@ -3,6 +3,7 @@
 <h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3
 ---
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+---
 ## 🚀 About Me
 
 A passionate front-end developer based in Dhaka, Bangladesh. I am deeply interested in crafting visually appealing and user-friendly web experiences. I'm expanding my expertise into backend technologies and exploring the exciting world of deep learning.
