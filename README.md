@@ -7,14 +7,8 @@
 
 A passionate front-end developer based in Dhaka, Bangladesh. I am deeply interested in crafting visually appealing and user-friendly web experiences. I'm expanding my expertise into backend technologies and exploring the exciting world of deep learning.
 
+- 📫 How to reach me **parvejshahlabib007@gmail.com**
 --- 
-
-<img align="center" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
-
----
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvej-shah" alt="parvej-shah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🌟 Current Projects
 
@@ -55,8 +49,6 @@ A React-based e-commerce platform showcasing modern web development practices:
 ---
 
 - 💬 Ask me about **React, Java Scripts, Competitive Programming**
-
-- 📫 How to reach me **parvejshahlabib007@gmail.com**
 
 🎨 **Fun Facts**
 
