@@ -6,6 +6,7 @@
 
 A passionate front-end developer based in Dhaka, Bangladesh. I am deeply interested in crafting visually appealing and user-friendly web experiences. I'm expanding my expertise into backend technologies and exploring the exciting world of deep learning.
 
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 ---                                                                                  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvej-shah" alt="parvej-shah" /></a> </p>
 
