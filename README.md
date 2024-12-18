@@ -9,7 +9,7 @@ A passionate front-end developer based in Dhaka, Bangladesh. I am deeply interes
 
 --- 
 
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
+<img align="center" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
 
 ---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parvej-shah" alt="parvej-shah" /></a> </p>
@@ -79,7 +79,7 @@ A React-based e-commerce platform showcasing modern web development practices:
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parvej-shah&show_icons=true&locale=en&layout=compact" alt="parvej-shah" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parvej-shah&show_icons=true&locale=en" alt="parvej-shah" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvej-shah&" alt="parvej-shah" /></p>
