@@ -38,7 +38,7 @@ A React-based e-commerce platform showcasing modern web development practices:
 - Participating in challenging **deep learning hackathons**.
 - Expanding my knowledge in **data visualization** and **probability/statistics**.
 ---
-- 👨‍💻 All of my projects are available at [www.parvejshah.com](www.parvejshah.com)
+- 👨‍💻 All of my projects are available at [parvej-shah](https://parvej-shah.netlify.app/)
 ---
 ## 🎯 Achievements & Contributions
 
