@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif" align="center" width="100%" height="400px"/>
 <h1 align="center">Hi 👋, I'm Parvej Shah</h1>
-<h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3                                                                        
+<h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3>    
+<img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif" align="center" width="100%" height="400px"/>                                                                  
 ---
 
 ## 🚀 About Me
