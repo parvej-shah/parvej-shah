@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif"/>
+<img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif" align="center" />
 <h1 align="center">Hi 👋, I'm Parvej Shah</h1>
 <h3 align="center">Frontend Developer | Aspiring AI Developer | Lifelong Learner</h3                                                                        
 ---
