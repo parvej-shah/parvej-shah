@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Parvej Shah</h1>
-<h3 align="center">💻 Full-Stack Developer | React & Next.js Specialist | AI & IoT Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | React & Next.js Specialist | AI & Automation</h3>
 
 <p align="center">
   <img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif" alt="Coding animation" width="100%" height="450px" />
@@ -79,7 +79,7 @@ My mission: build scalable, elegant web experiences that combine UX, performance
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width "40" height "40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
