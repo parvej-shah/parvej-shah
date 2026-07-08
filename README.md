@@ -13,7 +13,7 @@ I’m **Parvej Shah**, a full-stack web developer from **Dhaka, Bangladesh**, an
 My mission: build scalable, elegant web experiences that combine UX, performance, and maintainability.
 
 - 📫 Reach me: **parvejshahlabib007@gmail.com**  
-- 🌐 Portfolio: [parvej-shah.netlify.app](https://parvej-shah.netlify.app/)  
+- 🌐 Portfolio: https://parvejshah.vercel.app/
 - 🔍 Keywords: Full-Stack, React, Next.js, Node.js, Express, MongoDB, AI, Deep Learning  
 
 ---
