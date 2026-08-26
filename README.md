@@ -1,118 +1,67 @@
-<h1 align="center">Hi 👋, I’m Parvej Shah</h1>
-<h3 align="center">💻 Full-Stack Developer | React & Next.js Specialist | AI & Automation</h3>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Parvej Shah Labib</h1>
+  <p align="center">
+    <strong>Full-Stack Web Developer | Building scalable web products from Dhaka, Bangladesh</strong>
+  </p>
+  <p align="center">
+    <a href="https://parvejshah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-parvejshah.vercel.app-00E676?style=flat&logo=vercel" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/parvej-shah"><img src="https://img.shields.io/badge/LinkedIn-Parvej_Shah-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:parvejshahlabib007@gmail.com"><img src="https://img.shields.io/badge/Email-parvejshahlabib007@gmail.com-D14836?style=flat&logo=gmail" alt="Email" /></a>
+  </p>
+</div>
+
+## 👨‍💻 About Me
+
+I am a Full-Stack Web Developer specializing in building high-performance, scalable digital products. From dynamic front-ends using **React and Next.js** to robust back-ends powered by **Node.js, Express, and MongoDB**, I focus on delivering end-to-end solutions that solve real business problems.
+
+Based in Dhaka, Bangladesh, I am currently available for freelance projects worldwide. 
+
+### 🚀 Core Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 🏆 Featured Projects & Case Studies
+
+Here are some of the impactful products I've built recently:
+
+- **[Minions.AI](https://parvejshah.vercel.app/projects/minions-ai)** - An enterprise-grade 24/7 AI voice front office, speed-to-lead dispatcher, and multi-agent content engine built for trade and service contractors.
+- **[GenMorphics AI](https://parvejshah.vercel.app/projects/genmorphics-ai)** - Enterprise workforce management and annotation platform for domain-specific LLM data collection, fine-tuning, and evaluation.
+- **[SellerVai](https://parvejshah.vercel.app/projects/sellervai)** - AI-powered conversational social commerce sales and customer support assistant for online merchants.
+- **[MathPro Academy](https://parvejshah.vercel.app/projects/mathpro-academy)** - Online mathematics coaching and exam preparation web platform for JSC, SSC, and HSC students with automated bKash/Nagad checkout.
+
+👉 *[View my full portfolio and case studies](https://parvejshah.vercel.app/projects)*
+
+## ✍️ Recent Insights & Writing
+
+I document my learnings, system architecture decisions, and engineering deep-dives on my blog:
+
+- 📝 [How We Got Voice AI Response Times Under 1.8 Seconds on Real Phone Calls](https://parvejshah.vercel.app/blog/architecting-sub-18s-voice-ai-pipelines)
+- 📝 [Why We Stopped Using LLM Agents to Control LLM Agents](https://parvejshah.vercel.app/blog/deterministic-multi-agent-systems-production)
+- 📝 [What It Actually Takes to Build a Workforce Management Dashboard for an AI Company](https://parvejshah.vercel.app/blog/engineering-precision-data-platforms-sft-rlhf)
+- 📝 [Building a Chat-Based Sales Bot That Doesn't Drop Messages During Flash Sales](https://parvejshah.vercel.app/blog/conversational-commerce-webhook-architecture)
+
+👉 *[Read more engineering articles](https://parvejshah.vercel.app/blog)*
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/parvej-shah">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvej-shah&show_icons=true&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/parvej-shah">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvej-shah&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://i.ibb.co.com/5j787BM/Software-code-testing.gif" alt="Coding animation" width="100%" height="450px" />
-</p>
-
----
-
-## 🚀 About Me
-
-I’m **Parvej Shah**, a full-stack web developer from **Dhaka, Bangladesh**, and a Software Engineering student at **University of Dhaka**.  
-My mission: build scalable, elegant web experiences that combine UX, performance, and maintainability.
-
-- 📫 Reach me: **parvejshahlabib007@gmail.com**  
-- 🌐 Portfolio: https://parvejshah.vercel.app/
-- 🔍 Keywords: Full-Stack, React, Next.js, Node.js, Express, MongoDB, AI, Deep Learning  
-
----
-
-## 🧩 Featured Projects (Full-Stack & Frontend)
-
-### 🏷️ [Jibika](https://github.com/parvej-shah/Jibika)  
-**Service Marketplace Platform (MVP)**  
-- **Stack**: Next.js, Prisma, Tailwind CSS, PostgreSQL  
-- **Highlights**: Provider-client matching, real-time bidding, multi-role auth  
-- **Goal**: Scalable architecture + clean UX  
-
-### 🏨 [Luxeory Hotel Booking](https://github.com/parvej-shah/luxeory-hotel-booking)  
-**Hotel Booking Web App**  
-- **Stack**: MERN (MongoDB, Express.js, React, Node.js)  
-- **Features**: Room listings, filtering, booking API, responsive UI  
-- **Focus**: Full CRUD, client-server sync, state management  
-
-### 🌊 [Mariscope (Client)](https://github.com/parvej-shah/Mariscope-client-side)  
-**Science Learning Frontend**  
-- **Tech**: React, Tailwind CSS  
-- **Highlights**: Interactive UI, data visualization, educational content  
-
-### 🌐 [Mariscope (Server)](https://github.com/parvej-shah/Mariscope-Server-Side)  
-**Backend for Mariscope**  
-- **Stack**: Express.js, Node.js, MongoDB  
-- **Features**: REST APIs, JWT auth, content management, scalable DB design  
-
-### 🔐 [VisaSphere](https://github.com/parvej-shah/VisaSphere)  
-**Visa Process Flow App**  
-- **Front-end**: React, Tailwind  
-- **Focus**: Auth, workflows, form management  
-
-### 🌸 [Lingo Bingo](https://github.com/parvej-shah/Lingo-Bingo)  
-**Language Learning Game**  
-- **Tech**: React, Tailwind  
-- **Features**: Quizzes, flashcards, responsive UI  
-
-### 🤖 [Tic-Tac-TARS](https://github.com/parvej-shah/Tic-Tac-TARS)  
-**Game vs AI Bot**  
-- **Tech**: React, Tailwind, Daisy UI  
-- **Logic**: Minimax algorithm, smart AI opponent  
-
-### 🛍️ [Gadget Heaven](https://github.com/parvej-shah/Gadget-Heaven)  
-**E-Commerce Frontend**  
-- **Stack**: React, Context API, React Router  
-- **Focus**: Component structure, navigation, UI design  
-
----
-
-## 🌱 What I’m Learning & Exploring
-
-- Advanced backend systems with Express.js, Prisma, MongoDB  
-- Deep Learning integration for web apps  
-- Data visualization, analytics, and statistics  
-- DevOps practices: CI/CD, Docker, deployment  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" alt="Prisma" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-</p>
-
----
-
-## 📈 GitHub Stats & Contribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvej-shah&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parvej-shah&layout=compact&theme=transparent" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvej-shah&theme=transparent" alt="Streak Stats" />
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/parvej-shah-477011202" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/parvej.shahlabib" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
+  <i><strong>Generative Engine Optimization (GEO) & SEO Keywords:</strong> Full Stack Web Developer Dhaka Bangladesh, Next.js Developer, React Expert, Node.js Backend Engineer, MongoDB, TypeScript, Freelance Web Developer, AI Platform Development.</i>
 </p>
