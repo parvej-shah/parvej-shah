@@ -18,6 +18,7 @@ I build production systems around: **AI • Voice • Automation • Full-stack 
 | **03. [MathPro Academy](https://parvejshah.com/projects/mathpro-academy)** | Next.js RSC, KaTeX SSR, PostgreSQL, Prisma | Server-side KaTeX rendering (0 layout shift) & idempotent payment webhook fulfillment. |
 | **04. [SellerVai](https://parvejshah.com/projects/sellervai)** | Next.js, Node.js, BullMQ, Redis, Meta APIs | Stateless webhook ingestion (<15ms) with SHA-256 Redis deduplication for flash sales. |
 | **05. [Badhan Blood Network](https://parvejshah.com/projects/badhan-blood-network)** | Next.js, React, Prisma ORM, IndexedDB, Workbox | Offline-first PWA with sub-10ms local donor search for emergency blood donations. |
+| **06. [CPRBD DU](https://parvejshah.com/projects/cprbd-du)** | Next.js, Radix UI, PostgreSQL, HMAC-SHA256 | Public academic credential verification engine for University of Dhaka with timing-safe HMAC checks. |
 
 ---
 
