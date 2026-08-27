@@ -13,12 +13,12 @@ I build production systems around: **AI • Voice • Automation • Full-stack 
 
 | System | Architecture / Stack | Production Highlight |
 |---|---|---|
-| **01. [Minions.AI](https://parvejshah.com/projects/minions-ai)** | Next.js, WebRTC/SIP, Neural VAD, TypeScript FSM | Sub-1.8s voice round-trip answering pipeline with speculative tool pre-fetching. |
+| **01. [Minions.AI](https://parvejshah.com/projects/minions-ai)** | Next.js, Retell AI (WebRTC), n8n, EspoCRM | Sub-1.8s voice round-trip answering pipeline with pre-warmed calendar availability caching. |
 | **02. [GenMorphics AI](https://parvejshah.com/projects/genmorphics-ai)** | Next.js 15, Turbopack, Supabase RLS, OAuth 2.0 | Enterprise workforce dashboard with multi-tier RBAC and short-lived signed asset tokens. |
-| **03. [MathPro Academy](https://parvejshah.com/projects/mathpro-academy)** | Next.js RSC, KaTeX SSR, PostgreSQL, Prisma | Server-side KaTeX rendering (0 layout shift) & idempotent payment webhook fulfillment. |
-| **04. [SellerVai](https://parvejshah.com/projects/sellervai)** | Next.js, Node.js, BullMQ, Redis, Meta APIs | Stateless webhook ingestion (<15ms) with SHA-256 Redis deduplication for flash sales. |
+| **03. [MathPro Academy](https://parvejshah.com/projects/mathpro-academy)** | Next.js RSC, KaTeX SSR, PostgreSQL, Express.js | Server-side KaTeX rendering (0 layout shift) & SSLCommerz payment webhook fulfillment. |
+| **04. [SellerVai](https://parvejshah.com/projects/sellervai)** | FastAPI, LangChain, PostgreSQL (pgvector), Meta APIs | AI sales agent platform with in-process message debouncing and RAG-based automated order fulfillment. |
 | **05. [Badhan Blood Network](https://parvejshah.com/projects/badhan-blood-network)** | Next.js, React, Prisma ORM, IndexedDB, Workbox | Offline-first PWA with sub-10ms local donor search for emergency blood donations. |
-| **06. [CPRBD DU](https://parvejshah.com/projects/cprbd-du)** | Next.js, Radix UI, PostgreSQL, HMAC-SHA256 | Public academic credential verification engine for University of Dhaka with timing-safe HMAC checks. |
+| **06. [CPRBD DU](https://parvejshah.com/projects/cprbd-du)** | Next.js, Radix UI, PostgreSQL, SSLCommerz | Public academic credential verification engine for University of Dhaka with instant QR validation. |
 
 ---
 
@@ -35,6 +35,6 @@ I build production systems around: **AI • Voice • Automation • Full-stack 
 ## 🧰 Core Engineering Stack
 
 * **Frontend**: Next.js (App Router, RSC), React 19, TypeScript, Tailwind CSS.
-* **Backend**: Node.js, Express, BullMQ, Redis, WebSockets, WebRTC/SIP Telephony.
+* **Backend**: Node.js, Express, FastAPI, LangChain, n8n, WebRTC Telephony.
 * **Databases**: PostgreSQL, Prisma ORM, Supabase (RLS, Auth), MongoDB.
 * **Infrastructure**: Vercel Edge, Cloudflare (DNS, R2 Storage, Workers), Docker.
